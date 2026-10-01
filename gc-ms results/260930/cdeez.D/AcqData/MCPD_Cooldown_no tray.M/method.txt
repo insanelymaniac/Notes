@@ -1,0 +1,27 @@
+﻿Additional Information for sim24012019.M
+File created Thu Jan 24 16:49:04 2019
+
+Method : D:\MassHunter\GCMS\1\methods\scan24012019.M
+Renamed: D:\MassHunter\GCMS\1\methods\sim24012019.M
+Thu Jan 24 16:49:05 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\sim24012019.M
+Renamed: D:\MassHunter\GCMS\1\methods\MPCD-270819.M
+Tue Aug 27 15:19:39 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\MPCD-270819.M
+Renamed: D:\MassHunter\GCMS\1\methods\MPCD-02.M
+Thu Aug 29 15:19:11 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\MPCD-02.M
+Renamed: D:\MassHunter\GCMS\1\methods\MCPD_Cooldown.M
+Tue Mar 10 11:14:29 2020
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\MCPD_Cooldown.M
+Renamed: D:\MassHunter\GCMS\1\methods\MCPD_Cooldown_no tray.M
+Wed Sep 09 11:36:18 2026
+-----------------------------------------
