@@ -1,0 +1,37 @@
+﻿Additional Information for sim24012019.M
+File created Thu Jan 24 16:49:04 2019
+
+Method : D:\MassHunter\GCMS\1\methods\scan24012019.M
+Renamed: D:\MassHunter\GCMS\1\methods\sim24012019.M
+Thu Jan 24 16:49:05 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\sim24012019.M
+Renamed: D:\MassHunter\GCMS\1\methods\MPCD-270819.M
+Tue Aug 27 15:19:39 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\MPCD-270819.M
+Renamed: D:\MassHunter\GCMS\1\methods\MPCD-02.M
+Thu Aug 29 15:19:11 2019
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\MPCD-02.M
+Renamed: D:\MassHunter\GCMS\1\methods\3-MPCD and GE.M
+Tue Dec 28 13:26:52 2021
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\3-MPCD and GE.M
+Renamed: D:\MassHunter\GCMS\1\methods\SMITH_BIO_OIL_TRIAL1.M
+Wed Nov 27 13:43:52 2024
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\SMITH_BIO_OIL_TRIAL1.M
+Renamed: D:\MassHunter\GCMS\1\methods\SEAH_BIO_OIL_TRIAL.M
+Wed Jan 22 14:01:49 2025
+-----------------------------------------
+
+Method : D:\MassHunter\GCMS\1\methods\OCT 2025 BIO-OIL GC-MS.M
+Renamed: D:\MassHunter\GCMS\1\methods\OCT 2025 BIO-OIL GC-MS_no tray.M
+Wed Sep 09 14:55:53 2026
+-----------------------------------------

@@ -1,0 +1,38 @@
+﻿    Starting sequence Mon Sep 28 12:52:47 2026
+     
+  Instrument Name: GCMS
+    Sequence File: D:\MassHunter\GCMS\1\sequence\260928_Kong FYP.sequence.xml
+          Comment: TEST
+         Operator:  
+        Data Path: D:\MassHunter\GCMS\1\data\MCPD Aug2019\Trial\
+
+    Line  Type          Vials    DataFile                       Sample Name
+    -----------------------------------------------------------------------
+    Acquisition Method Path: D:\MassHunter\GCMS\1\methods\
+    Acquisition Method File: OCT 2025 BIO-OIL GC-MS_no tray.M
+      1) Blank            1      dcm blank 1            BLANK 1                  
+      2) Blank            1      dcm blank 2            BLANK 2                  
+      3) Blank            2      dcmhex blank           Solv blank               
+      4) Sample           3      sample 7               sample 7                 
+      5) Blank            2      dcmhex blank 2         solv blank               
+    Sequence Table edit performed Mon Sep 28 16:52:01 2026
+      6) Sample           3      sample 7 (d)           sample 7                 
+      7) Blank            2      dcmhex blank 3         solv blank               
+      8) Sample           1      sample sy3             sample sy3               
+      9) Blank            2      dcmhex blank 4         solv blank               
+     10) Sample           1      sample sy3 (d)         sample sy3               
+     11) Blank            2      dcmhex blank 5         solv blank               
+     12) Sample           3      sample sy6             sample sy6               
+     13) Blank            2      dcmhex blank 6         solv blank               
+     14) Sample           3      sample sy6 (d)         sample sy6               
+     15) Blank            2      dcmhex blank 7         solv blank               
+     16) Blank            2      wash 1                 wash 1                   
+     17) Blank            2      wash 2                 wash 2                   
+     
+    Acquisition Method Path: D:\MassHunter\GCMS\1\methods\
+    Acquisition Method File: MCPD_Cooldown_no tray.M
+     18) Blank            1      cdeez                  COOLDOWN                 
+     
+    Sequence paused Tue Sep 29 13:14:05 2026
+     
+      D:\MassHunter\GCMS\1\data\Kong\260928\2026 Sep 28 1252 Sequence Log .LOG
