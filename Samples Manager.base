@@ -1,0 +1,35 @@
+properties:
+  note.TAN (pre 24/8/2026):
+    displayName: TAN(mg KOH/g oil) [pre 24/8/2026]
+  note.Bottoms from Distillation:
+    displayName: Type
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Samples")
+        - 'note["Bottoms from Distillation"] == ["Bottoms Residue: Oil"]'
+    order:
+      - file.name
+      - Date of generation
+      - Yield (w/w oil)
+      - TAN (pre 24/8/2026)
+      - TAN(mg KOH/g oil) [post 24/08/2026]
+      - Water Content (wt%)
+      - Bottoms from Distillation
+      - Feedstock
+    sort:
+      - property: Date of generation
+        direction: ASC
+      - property: Bottoms from Distillation
+        direction: DESC
+      - property: Feedstock
+        direction: ASC
+      - property: TAN (pre 24/8/2026)
+        direction: ASC
+    columnSize:
+      file.name: 422
+      note.TAN (pre 24/8/2026): 161
+      note.TAN(mg KOH/g oil) [post 24/08/2026]: 143
+      note.Bottoms from Distillation: 149

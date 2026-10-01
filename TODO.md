@@ -1,0 +1,7 @@
+ - [x] Grant Proposal due 24/8/2026
+ - [ ] Aquaria klcc exhibit 
+ - [x] TAN analysis 25/8/3026, check for acidity vs external lab
+ - [x] 18/8/2026 check column for gcms and hplcrid
+ - [ ] Samples to send for TAN testing: ==unblended== 0%, 30%, 50%, 100% Pyoil, MFO
+ - [ ] Samples to send for KF watet content testing: MFO and 100% unblended MFO
+ - [ ] FYP Su Yuin PPT review [[FYP SuYuin]]
