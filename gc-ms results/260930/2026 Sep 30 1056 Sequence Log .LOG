@@ -1,0 +1,34 @@
+﻿    Starting sequence Wed Sep 30 10:56:12 2026
+     
+  Instrument Name: GCMS
+    Sequence File: D:\MassHunter\GCMS\1\sequence\260930_test for acetic acid.sequen
+...                ce.xml
+          Comment: TEST
+         Operator:  
+        Data Path: D:\MassHunter\GCMS\1\data\MCPD Aug2019\Trial\
+
+    Line  Type          Vials    DataFile                       Sample Name
+    -----------------------------------------------------------------------
+    Acquisition Method Path: D:\MassHunter\GCMS\1\methods\
+    Acquisition Method File: OCT 2025 BIO-OIL GC-MS_no tray.M
+      1) Blank            1      dcm blank 1            BLANK 1                  
+      2) Blank            1      dcm blank 2            BLANK 2                  
+      3) Blank            2      dcmhex blank           Solv blank               
+      4) Sample           3      raw pyoil              raw pyoil                
+      5) Blank            2      dcmhex blank 2         solv blank               
+      6) Sample           3      raw pyoil (d)          raw pyoil                
+      7) Blank            2      dcmhex blank 3         solv blank               
+      8) Sample           1      acetic acid std        acetic acid std          
+      9) Blank            2      dcmhex blank 4         solv blank               
+     10) Sample           1      acetic acid std (d)    acetic acid std          
+     11) Blank            2      dcmhex blank 5         solv blank               
+     12) Blank            3      wash 1                 wash 1                   
+     13) Blank            3      wash 2                 wash 2                   
+     
+    Acquisition Method Path: D:\MassHunter\GCMS\1\methods\
+    Acquisition Method File: MCPD_Cooldown_no tray.M
+     14) Blank            1      cdeez                  COOLDOWN                 
+     
+    Sequence completed Thu Oct 01 10:56:59 2026
+     
+      D:\MassHunter\GCMS\1\data\Kong\260930\2026 Sep 30 1056 Sequence Log .LOG
