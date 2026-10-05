@@ -1,6 +1,0 @@
-﻿Name LastDataFile
-  LastDataPath$ = "D:\MassHunter\GCMS\1\data\Kong\260930\" 
-  LastDataFile$ = "raw pyoil.D" 
-  LastDataSize  = 15160412
-  remove LastDataFile
-  return

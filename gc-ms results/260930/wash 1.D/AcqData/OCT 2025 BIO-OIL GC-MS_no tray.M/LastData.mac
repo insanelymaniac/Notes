@@ -1,6 +1,0 @@
-﻿Name LastDataFile
-  LastDataPath$ = "D:\MassHunter\GCMS\1\data\Kong\260930\" 
-  LastDataFile$ = "dcmhex blank 5.D" 
-  LastDataSize  = 3582978
-  remove LastDataFile
-  return
