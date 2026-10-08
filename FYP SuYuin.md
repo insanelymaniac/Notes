@@ -12,3 +12,7 @@ amberlyst-36
 [[FYP A Interview V1 [Su Yuin].pptx]] - Review 
 
 Ethyl ether -34.15C
+
+Procedure for FYP 
+1) add oil, cyclohexane, catalyst into flask and heat
+2) remove water from trap, then add ethanol. 
